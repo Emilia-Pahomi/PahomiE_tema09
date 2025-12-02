@@ -1,0 +1,10 @@
+C:\Users\emily\Desktop\EGC\tema_10\Sloturi\Sloturi\bin\Debug\Sloturi.exe.config
+C:\Users\emily\Desktop\EGC\tema_10\Sloturi\Sloturi\bin\Debug\Sloturi.exe
+C:\Users\emily\Desktop\EGC\tema_10\Sloturi\Sloturi\bin\Debug\Sloturi.pdb
+C:\Users\emily\Desktop\EGC\tema_10\Sloturi\Sloturi\obj\Debug\Sloturi.csproj.AssemblyReference.cache
+C:\Users\emily\Desktop\EGC\tema_10\Sloturi\Sloturi\obj\Debug\Sloturi.Form1.resources
+C:\Users\emily\Desktop\EGC\tema_10\Sloturi\Sloturi\obj\Debug\Sloturi.Properties.Resources.resources
+C:\Users\emily\Desktop\EGC\tema_10\Sloturi\Sloturi\obj\Debug\Sloturi.csproj.GenerateResource.cache
+C:\Users\emily\Desktop\EGC\tema_10\Sloturi\Sloturi\obj\Debug\Sloturi.csproj.CoreCompileInputs.cache
+C:\Users\emily\Desktop\EGC\tema_10\Sloturi\Sloturi\obj\Debug\Sloturi.exe
+C:\Users\emily\Desktop\EGC\tema_10\Sloturi\Sloturi\obj\Debug\Sloturi.pdb

@@ -1,0 +1,9 @@
+1. Texturile fără transparență (RGB) acoperă complet suprafața obiectului. Nu lasă să se vadă nimic prin ele, marginea obiectului este clară și opacă.
+Texturile cu transparență (RGBA) permit vizualizarea obiectelor din spate în zonele unde canalul Alpha este mic.
+
+2. Formate de imagine pentru texturare în OpenGL: cele mai folosite sunt PNG (suportă transparență), JPG/JPEG, BMP, TGA, DDS. Practic orice format pe care îl poți încărca și converti la un buffer de pixeli (RGB/RGBA) poate fi folosit.
+
+3. Efectul modificării culorii obiectului texturat: culoarea obiectului se în­mulțește cu culoarea texturii. Astfel, obiectul poate deveni mai luminos, mai întunecat sau colorat diferit. Dacă textura are transparență, efectul devine și mai vizibil.
+
+4. Cu iluminare activată, textura este influențată de lumină: umbre, reflexii, atenuări ceea ce redă un aspect mai realist.
+Cu iluminare dezactivată, textura apare plată, cu culorile exacte din imagine, fără variații luminoase sau umbre.
